@@ -1,0 +1,8 @@
+package com.kdh.practice;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+    }
+}
